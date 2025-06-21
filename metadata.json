@@ -1,0 +1,6 @@
+{
+  "name": "Instagram Reel Recipe Extractor (Simulated)",
+  "description": "An application to manually input, manage, and 'extract' (simulate via AI) recipes from Instagram Reel links. Recipes are stored locally in the browser.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
